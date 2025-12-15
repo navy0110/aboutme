@@ -1,6 +1,6 @@
 # aboutme
 <div align="center">
-  <a href="https://pw.is/" target="_blank"><img src="https://github.com/navy0110/aboutme/blob/main/imnavy.gif" alt="👋 Hi there! I'm (Navy)|https://navypm.xyz)" title="👋 Hi there! I'm (Navy)|https://navypm.xyz)"/></a>
+  <a href="https://navypm.xyz" target="_blank"><img src="https://github.com/navy0110/aboutme/blob/main/imnavy.gif" alt="👋 Hi there! I'm (Navy)|https://navypm.xyz)" title="👋 Hi there! I'm (Navy)|https://navypm.xyz)"/></a>
 </div>
 
 <br>
@@ -11,10 +11,7 @@
 		<a href = "https://commits.top/argentina.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
-	-->
-	<a href = "https://commits.top/argentina.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
+	--
 
 </p>
 
@@ -47,7 +44,7 @@
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nataliagnz)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/eveleonenox)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nataliagnz)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/eveleonenox)&nbsp;
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/navy0110)&nbsp;  
 
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
@@ -60,23 +57,15 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
   &emsp;
+   <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://www.php.net/images/logos/php-logo-white.svg">
+  </a>
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
