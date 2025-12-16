@@ -42,19 +42,6 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
-<p align="center"> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-   <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://www.php.net/images/logos/php-logo-white.svg">
-  </a>
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="Mysql" src="https://drive.google.com/file/d/1_zjli8bjoyTBl5ulWm0o_fEQiiewl6tJ/view?usp=drive_link">
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Data Engineering
 
@@ -102,12 +89,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Solidiy" src="https://drive.google.com/file/d/1prqZ4yOujRqWbDnnySeeo_e_LBzdW1Uh/view?usp=sharing"></a>
   &emsp;
-    <a href="#"><img alt="GIT" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="EVM" src="https://drive.google.com/file/d/1OC-3Ohlgn0pMcFvsX9wgQQraPzPzupcT/view?usp=sharing" /></a>
   &emsp;
-    <a href="#"><img alt="Claude" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
+
 </p>
 
 
